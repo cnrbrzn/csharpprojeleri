@@ -1,0 +1,15 @@
+C:\Users\borazanc\source\repos\ortalamahesaplama\bin\Debug\net6.0\ortalamahesaplama.exe
+C:\Users\borazanc\source\repos\ortalamahesaplama\bin\Debug\net6.0\ortalamahesaplama.deps.json
+C:\Users\borazanc\source\repos\ortalamahesaplama\bin\Debug\net6.0\ortalamahesaplama.runtimeconfig.json
+C:\Users\borazanc\source\repos\ortalamahesaplama\bin\Debug\net6.0\ortalamahesaplama.dll
+C:\Users\borazanc\source\repos\ortalamahesaplama\bin\Debug\net6.0\ortalamahesaplama.pdb
+C:\Users\borazanc\source\repos\ortalamahesaplama\obj\Debug\net6.0\ortalamahesaplama.csproj.AssemblyReference.cache
+C:\Users\borazanc\source\repos\ortalamahesaplama\obj\Debug\net6.0\ortalamahesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borazanc\source\repos\ortalamahesaplama\obj\Debug\net6.0\ortalamahesaplama.AssemblyInfoInputs.cache
+C:\Users\borazanc\source\repos\ortalamahesaplama\obj\Debug\net6.0\ortalamahesaplama.AssemblyInfo.cs
+C:\Users\borazanc\source\repos\ortalamahesaplama\obj\Debug\net6.0\ortalamahesaplama.csproj.CoreCompileInputs.cache
+C:\Users\borazanc\source\repos\ortalamahesaplama\obj\Debug\net6.0\ortalamahesaplama.dll
+C:\Users\borazanc\source\repos\ortalamahesaplama\obj\Debug\net6.0\refint\ortalamahesaplama.dll
+C:\Users\borazanc\source\repos\ortalamahesaplama\obj\Debug\net6.0\ortalamahesaplama.pdb
+C:\Users\borazanc\source\repos\ortalamahesaplama\obj\Debug\net6.0\ortalamahesaplama.genruntimeconfig.cache
+C:\Users\borazanc\source\repos\ortalamahesaplama\obj\Debug\net6.0\ref\ortalamahesaplama.dll
